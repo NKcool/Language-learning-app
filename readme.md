@@ -5,7 +5,10 @@
 
 ### Firstly run the server (express)
 
-
+```
+$ echo hello
+hello
+```
 cd server
 npm i
 npm run devStart
