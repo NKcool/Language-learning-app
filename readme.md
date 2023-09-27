@@ -9,6 +9,7 @@
 $ echo hello
 
 ```
+then 
 ```
 $ echo hello
 
