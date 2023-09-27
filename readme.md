@@ -7,7 +7,7 @@
 
 ```
 $ echo hello
-hello
+$ echo hello
 ```
 cd server
 npm i
